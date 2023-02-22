@@ -1,10 +1,18 @@
 # All about the Web UI automation using Selenium + Core Java
 
-## Tbd
+<div align="center">
+  <img title="readme-cover" alt="" src="./docs/images/readme-cover.jpeg" width=48%>
+</div>
+
+## 📖 Table of Contents
+
+1. 🤔 [Why Selenium + Java automation?](./docs/1.md)
 
 ## Tbd
 
-## Reference
+## Tbd
+
+## 📚 Reference
 
 - Tbd
 - Tbd
