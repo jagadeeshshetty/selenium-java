@@ -1,4 +1,4 @@
-package com.jc;
+package com.jc.playground;
 
 public class Assignment {
     public static void main(String[] args) {
